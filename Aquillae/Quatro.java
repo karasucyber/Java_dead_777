@@ -60,7 +60,32 @@ public class Quatro {
 
         System.out.println("tem que retonrnar false " + test9 );
         System.out.println("********************************");
-        System.out.println( "tem que retornar true" + test10);
+        System.out.println( "tem que retornar true = " + test10);
+        System.out.println("********************************");
+
+
+        double valorTotalContaCorrente = 200;
+        double valorTotalContaPoupanca = 10000;
+        float valorPlay = 5000F;
+        boolean isPlay = valorTotalContaCorrente > valorPlay  || valorTotalContaPoupanca > valorPlay; 
+
+        System.out.println(isPlay);
+
+
+        double bonus = 1000 ;
+        bonus += 1100; 
+        bonus -= 555;
+        bonus *= 2 ;
+        bonus /= 3 ;
+        System.out.println("********************************");
+
+        System.out.println(bonus);
+
+        int contador = 0;
+        contador ++ ; /* incrementa depois da ação */
+        contador --;
+        --contador;
+        ++ contador; /* incrementa antes de realizar ação */
 
  
 
@@ -68,9 +93,18 @@ public class Quatro {
     
 }
 
-/* && = and todas as condições precisão ser verdadeiras
- * || = or 
- * 
+/* && = and, todas as condições precisão ser verdadeiras
+ * || = or, apenas uma das condições precisam estar correta 
 */
 /* < > < = >= == != retorna valores 0 ou 1 que é igual boolean */
-/* obs != quando um dos parâmetros está correto true prevalece. */
+/* obs != quando um dos parâmetros está correto true prevalece. 
+ * 
+ * operadores
+ * ++ não altera mas incrementa 
+ *  = 
+ * += 
+ * *=
+ * -=
+ * /= 
+ * %=
+*/
