@@ -18,8 +18,8 @@ public class Quatro {
         boolean test4 = 10 <= 20 ; 
         boolean test5 = 10 >= 20 ; 
         boolean test6 = 10 != 20 ; 
-        boolean test7 = 10 != 10; 
-        boolean test8 = 10 != (double)10.0; 
+        boolean test7 = 10 != 12; 
+        boolean test8 = 10 !=  10.5; 
 
 
 
@@ -80,12 +80,13 @@ public class Quatro {
         System.out.println("********************************");
 
         System.out.println(bonus);
-
+       
+        /* 
         int contador = 0;
-        contador ++ ; /* incrementa depois da ação */
+        contador ++ ; 
         contador --;
         --contador;
-        ++ contador; /* incrementa antes de realizar ação */
+        ++ contador;  */
 
  
 
