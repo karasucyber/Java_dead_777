@@ -23,6 +23,7 @@ public class Seis {
     }
 
     System.out.println(categoria);
-}
+ 
+   }
     
 }
