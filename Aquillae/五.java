@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class Cinco {
+public class 五 {
 
     public static void main(String[] args) {
         int idade = 15;

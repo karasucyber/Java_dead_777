@@ -4,7 +4,7 @@ package Aquillae;
  * idade >= 15 idade <18 categoria juvenil
  * > 18 adulto
 */
-public class Seis {
+public class 六 {
     public static void main(String[] args) {
     int idade = 17 ;
     String categoria = "Sem categoria";

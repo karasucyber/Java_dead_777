@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class Nove {
+public class 九 {
     public static void main(String[] args) {
 
         int count = 0 ;

@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class Zero {
+public class 一 {
     public static void main(String[] args){
         System.out.println("Olá main");
     }

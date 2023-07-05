@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class Quatro {
+public class 四 {
     public static void main(String[] args) {
         int Primeiro = 10;
         int Segundo = 20 ; 

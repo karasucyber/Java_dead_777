@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class Dois {
+public class 二 {
     public static void main(String[] args) {
     /* Tipos primitivos e seus bytes */
     /*int, double, float, char,byte, short, long, boolean */

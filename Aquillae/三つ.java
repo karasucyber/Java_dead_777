@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class Tres{
+public class 三つ {
     public static void main(String[] args) {
         String nome = "Kauã";
         int idade = 19;

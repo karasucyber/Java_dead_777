@@ -3,7 +3,7 @@ package Aquillae;
 
 /*import javax.swing.SwingWorker; */
 
-public class Oito {
+public class 八 {
   
     /* imprimir dia da semana domingo valor inicial */
   

@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class Dez{ 
+public class 十 {
     public static void main(String[] args) {
         
         for(int i = 0; i <= 1000 ; i++){
