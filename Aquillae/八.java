@@ -1,4 +1,4 @@
-package Aquillae.Logic;
+package Aquillae;
 /*  */
 
 /*import javax.swing.SwingWorker; */

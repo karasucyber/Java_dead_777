@@ -7,7 +7,7 @@ public class 十七 {
       int[] array1 = {1,2,3,4};
       int[] array2 = {4,3,2,1};     
       int[] array3 = {0,0,0,0};
-      String [] array = {'',};
+      String [] array = {};
   
 
     arrayInt[0] = array1;

@@ -1,4 +1,4 @@
-package Aquillae.Logic;
+package Aquillae;
 
 public class 十 {
     public static void main(String[] args) {
