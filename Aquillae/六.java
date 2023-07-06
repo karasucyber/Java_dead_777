@@ -1,4 +1,4 @@
-package Aquillae;
+package Aquillae.Logic;
 
 /* idade < 15 categoria infantil 
  * idade >= 15 idade <18 categoria juvenil
