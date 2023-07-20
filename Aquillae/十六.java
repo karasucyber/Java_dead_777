@@ -20,7 +20,6 @@ public class 十六 {
          }
         }
 
-        System.out.println("***************************************");
 
         for(int[] arrBase : dias){
             for(int num: arrBase){
