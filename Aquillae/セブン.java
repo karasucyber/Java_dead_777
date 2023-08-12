@@ -1,6 +1,6 @@
 package Aquillae;
 
-public class セブン {
+public class  セブン {
     /**
      * @param args
      */

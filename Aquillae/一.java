@@ -1,8 +1,9 @@
 package Aquillae;
 
 public class 一 {
-    public static void main(String[] args){
-        System.out.println("Olá main");
+    public static void main(String[] args) {
+
+
     }
 }
 
