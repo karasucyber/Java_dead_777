@@ -14,10 +14,7 @@ public class 十七 {
     arrayInt[1] = new int[3];
     arrayInt[2] = new int[4];
     
-            
-     
- 
-      for(int[] n : arrayInt){
+        for(int[] n : arrayInt){
         System.out.println("-----------");
         for(int k : n){
           System.out.println(k);
