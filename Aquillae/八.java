@@ -8,46 +8,43 @@ public class 八 {
     /* imprimir dia da semana domingo valor inicial */
   
     public static void main(String[] args) {
-        byte dia = 8;
-        char sexo = 'M';
-         switch(dia){
-            case 1 :
-            System.out.println("Domingo");
+      
+        byte day = 5;
+
+        switch(day){
+            case 1 : System.out.println("segunda");
             break;
 
-            case 2 : System.out.println(" segunda");
-             break;
-
-            case 3 : System.out.println("terça");
-             break;
-
-            case 4 : System.out.println("Quarta");
-             break;
-
-            case 5 : System.out.println("quinta");
-             break;
-
-             case 6 : System.out.println("Sexta");
-             break;
-
-             case 7 : System.out.println("Sabado");
-             break;
-
-             default : System.out.println("opção invalida");
-         }
-
-         switch(sexo){
-            case 'M' : System.out.println("Mulher");
+              case 2 : System.out.println("terça");
             break;
 
-            case 'F' : System.out.println("Homem");
+              case 3 : System.out.println("quarta");
             break;
 
-            default : System.out.println("Tente novamente");
-         }
+              case 4 : System.out.println("quinta");
+            break;
+
+              case 5 : System.out.println("sexta");
+            break;
+
+              case 6 : System.out.println("sabado");
+            break;
+
+             case  7 : System.out.println("domingo");
+            break;
+
+        }
+        
+        char g = 'F';
+        switch(g){
+            case 'F': System.out.println("Femenino");
+            break;
+            case 'M': System.out.println("Masculino");
+            break;
+        }
+        
          
     }
     
 }
 
-/* switch só aceita v com tipo seguitens char, int, byte, enum, String*/
