@@ -7,8 +7,3 @@ public class 一 {
     }
 }
 
-/*
- * Erros cometidos faltou [] 
- * erro apresentado = não foi possível encontrar main.
- * o correto String[].
- */

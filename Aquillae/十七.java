@@ -15,13 +15,18 @@ public class 十七 {
     arrayInt[2] = new int[4];
     
             
-      for(int[] arrayBase : arrayInt){
-        System.out.println("------------");
-        for(int num : arrayBase){
-            System.out.println(num );
+     
+ 
+      for(int[] n : arrayInt){
+        System.out.println("-----------");
+        for(int k : n){
+          System.out.println(k);
         }
+      }
+
+    
 
       } 
     }
     
-}
+
